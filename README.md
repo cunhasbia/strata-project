@@ -1,2 +1,2 @@
-# HTML-CSS-StrataProject
-practicing HTML and CSS with some new learned properties:  custom fonts, icons, photo grid, contact form, table styles, different list elements, border-radius, paragraphs with photos, etc etc.
+# Strata
+Strata is the third project developed during a course at Udemy to practicing HTML5 and CSS3 with some new learned properties: custom fonts, icons, forms, table styles, list elements, photo grid, border-radius, etc.
